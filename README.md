@@ -1,2 +1,2 @@
-# first_project_yandex
+# First_Project_Yandex
 Первый учебный проект Яндекс Практикум
